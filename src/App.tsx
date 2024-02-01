@@ -56,7 +56,7 @@ function App() {
         
       </div>
       <div className="footer" style={{ backgroundColor: randomColor }}>
-        <h5>©2023...Josefwambua</h5>
+        <h5>©2024...Josefwambua</h5>
       </div>
     </div>
   );
